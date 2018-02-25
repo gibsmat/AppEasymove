@@ -2,3 +2,9 @@ node_modules/
 .vscode/
 .expo/
 npm-debug.*
+
+build/
+yarn-error.log
+*.tgz
+.DS_Store
+*.log
